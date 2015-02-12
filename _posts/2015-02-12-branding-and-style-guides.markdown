@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  Design History
-date:   2015-02-12 07:42:36
+title:  Branding and Style Guides
+date:   2015-02-12 10:42:36
 ---
-Everything repeats itself in Design. Learning the history of design helps designers and developers learn about the connotations that different movements have on the viewer/user's subconscious.
 
-Read up on [Design History](http://www.designishistory.com/).
+Branding and style guide theories from marketing and branding/ad agencies are finally making their way into the web world. Here is some inspiration and resources on logos and creating a style guide, which is a document designed to explain a design system (of fonts, colors, voice, etc).
 
 ### Branding
 * [LogoDesignLove’s brand identity style guides list](http://www.logodesignlove.com/brand-identity-style-guides)

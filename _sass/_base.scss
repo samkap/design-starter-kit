@@ -85,10 +85,16 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 300;
+    font-weight: 400;
+  font-family: 'Roboto Slab', serif;
+  color: $brand-color;
 }
 
-
+h2 {
+    margin-top: 3em;
+    text-align: center;
+    font-size: 36px;
+}
 
 /**
  * Links
@@ -132,7 +138,7 @@ blockquote {
  */
 pre,
 code {
-    font-size: 15px;
+    font-size: 22px;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
     background-color: #eef;

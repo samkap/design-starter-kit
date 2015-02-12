@@ -5,21 +5,26 @@
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
+    background: $brand-color;
+
 
     // Positioning context for the mobile navigation icon
     position: relative;
+
 }
 
 .site-title {
     font-size: 26px;
     line-height: 56px;
-    letter-spacing: -1px;
+    font-weight: 400;
     margin-bottom: 0;
     float: left;
+      font-family: 'Roboto Slab', serif;
+
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: $grey-color-light;
     }
 }
 
@@ -32,13 +37,14 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: $grey-color-light;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
             margin-left: 20px;
         }
+
     }
 
     @include media-query($on-palm) {
@@ -166,12 +172,17 @@
 }
 
 .page-heading {
-    font-size: 20px;
+    font-size: 46px;
 }
 
 .post-list {
     margin-left: 0;
     list-style: none;
+   h2 {
+        font-size: 36px;
+        text-align: left;
+        margin-top: 0em;
+    }
 
     > li {
         margin-bottom: $spacing-unit;
@@ -179,7 +190,7 @@
 }
 
 .post-meta {
-    font-size: $small-font-size;
+    font-size: 15px;
     color: $grey-color;
 }
 
@@ -198,6 +209,7 @@
 }
 
 .post-title {
+    font-family: 'Roboto Slab', serif;
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
@@ -212,6 +224,8 @@
 
     h2 {
         font-size: 36px;
+        text-align: left;
+        margin-top: .5em;
 
         @include media-query($on-laptop) {
             font-size: 28px;

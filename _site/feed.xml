@@ -4,21 +4,66 @@
     <title>Design Starter Kit</title>
     <description>A Design starter kit for students at The Iron Yard.
 </description>
-    <link>http://samkap.github.io/</link>
-    <atom:link href="http://samkap.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Feb 2015 09:20:48 -0600</pubDate>
-    <lastBuildDate>Thu, 12 Feb 2015 09:20:48 -0600</lastBuildDate>
+    <link>http://samkap.github.io/design-starter-kit/</link>
+    <atom:link href="http://samkap.github.io/design-starter-kit/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 12 Feb 2015 10:17:22 -0600</pubDate>
+    <lastBuildDate>Thu, 12 Feb 2015 10:17:22 -0600</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Branding and Style Guides</title>
+        <description>&lt;p&gt;Branding and style guide theories from marketing and branding/ad agencies are finally making their way into the web world. Here is some inspiration and resources on logos and creating a style guide, which is a document designed to explain a design system (of fonts, colors, voice, etc).&lt;/p&gt;
+
+&lt;h3 id=&quot;branding&quot;&gt;Branding&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.logodesignlove.com/brand-identity-style-guides&quot;&gt;LogoDesignLove’s brand identity style guides list&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://findguidelin.es/&quot;&gt;Find Brand Guidelines on the web&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/Designing-Brand-Identity-Essential-Branding/dp/1118099206&quot;&gt;Designing Brand Identity - book&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/The-Brand-Gap-Distance-Business/dp/0321348109/ref=pd_sim_b_1?ie=UTF8&amp;amp;refRID=17C792H5AXJ3AD8EB7ZT&quot;&gt;The Brand Gap&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;style-guides&quot;&gt;Style Guides&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;https://dribbble.com/shots/1835799-Housing-UI-Style-Guide/attachments/306303&lt;/li&gt;
+  &lt;li&gt;https://dribbble.com/search?q=ui+style+guides&lt;/li&gt;
+  &lt;li&gt;http://styleguides.io/&lt;/li&gt;
+  &lt;li&gt;http://5by5.tv/webahead/28&lt;/li&gt;
+  &lt;li&gt;https://gdstechnology.blog.gov.uk/2014/12/11/govuk-living-style-guide/&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 12 Feb 2015 04:42:36 -0600</pubDate>
+        <link>http://samkap.github.io/design-starter-kit/2015/02/12/branding-and-style-guides.html</link>
+        <guid isPermaLink="true">http://samkap.github.io/design-starter-kit/2015/02/12/branding-and-style-guides.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Design History</title>
         <description>&lt;p&gt;Everything repeats itself in Design. Learning the history of design helps designers and developers learn about the connotations that different movements have on the viewer/user’s subconscious.&lt;/p&gt;
 
 &lt;p&gt;Read up on &lt;a href=&quot;http://www.designishistory.com/&quot;&gt;Design History&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;branding&quot;&gt;Branding&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.logodesignlove.com/brand-identity-style-guides&quot;&gt;LogoDesignLove’s brand identity style guides list&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://findguidelin.es/&quot;&gt;Find Brand Guidelines on the web&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/Designing-Brand-Identity-Essential-Branding/dp/1118099206&quot;&gt;Designing Brand Identity - book&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/The-Brand-Gap-Distance-Business/dp/0321348109/ref=pd_sim_b_1?ie=UTF8&amp;amp;refRID=17C792H5AXJ3AD8EB7ZT&quot;&gt;The Brand Gap&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;style-guides&quot;&gt;Style Guides&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;https://dribbble.com/shots/1835799-Housing-UI-Style-Guide/attachments/306303&lt;/li&gt;
+  &lt;li&gt;https://dribbble.com/search?q=ui+style+guides&lt;/li&gt;
+  &lt;li&gt;http://styleguides.io/&lt;/li&gt;
+  &lt;li&gt;http://5by5.tv/webahead/28&lt;/li&gt;
+  &lt;li&gt;https://gdstechnology.blog.gov.uk/2014/12/11/govuk-living-style-guide/&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Thu, 12 Feb 2015 01:42:36 -0600</pubDate>
-        <link>http://samkap.github.io/2015/02/12/design-history.html</link>
-        <guid isPermaLink="true">http://samkap.github.io/2015/02/12/design-history.html</guid>
+        <link>http://samkap.github.io/design-starter-kit/2015/02/12/design-history.html</link>
+        <guid isPermaLink="true">http://samkap.github.io/design-starter-kit/2015/02/12/design-history.html</guid>
         
         
       </item>
@@ -40,8 +85,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 12 Feb 2015 01:42:36 -0600</pubDate>
-        <link>http://samkap.github.io/2015/02/12/common-patterns.html</link>
-        <guid isPermaLink="true">http://samkap.github.io/2015/02/12/common-patterns.html</guid>
+        <link>http://samkap.github.io/design-starter-kit/2015/02/12/common-patterns.html</link>
+        <guid isPermaLink="true">http://samkap.github.io/design-starter-kit/2015/02/12/common-patterns.html</guid>
         
         
       </item>
