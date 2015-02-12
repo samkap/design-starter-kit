@@ -72,6 +72,11 @@ h2 {
   text-align: center;
   font-size: 36px; }
 
+h4 {
+  margin-top: 3rem;
+  font-size: 25px;
+  text-align: center !important; }
+
 /**
  * Links
  */
@@ -162,6 +167,7 @@ pre {
   border-bottom: 1px solid #e8e8e8;
   min-height: 56px;
   background: #2a7ae2;
+  padding: 20px;
   position: relative; }
 
 .site-title {
@@ -279,13 +285,19 @@ pre {
 
 .post-list {
   margin-left: 0;
-  list-style: none; }
+  list-style: none;
+  overflow: hidden; }
   .post-list h2 {
     font-size: 36px;
     text-align: left;
     margin-top: 0em; }
-  .post-list > li {
+  .post-list li {
+    width: 46%;
+    margin-right: 8%;
+    float: left;
     margin-bottom: 30px; }
+  .post-list li:nth-of-type(2n) {
+    margin-right: 0; }
 
 .post-meta {
   font-size: 15px;
@@ -298,6 +310,9 @@ pre {
 /**
  * Posts
  */
+.post {
+  margin-top: 1.5rem; }
+
 .post-header {
   margin-bottom: 30px; }
 

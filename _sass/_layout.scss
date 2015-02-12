@@ -6,6 +6,7 @@
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
     background: $brand-color;
+    padding: 20px;
 
 
     // Positioning context for the mobile navigation icon
@@ -178,14 +179,23 @@
 .post-list {
     margin-left: 0;
     list-style: none;
+    overflow: hidden;
    h2 {
         font-size: 36px;
         text-align: left;
         margin-top: 0em;
     }
 
-    > li {
+     li {
+        width: 46%;
+        margin-right: 8%;
+        float: left;
         margin-bottom: $spacing-unit;
+    }
+
+    li:nth-of-type(2n) {
+        margin-right: 0;
+
     }
 }
 
@@ -204,6 +214,9 @@
 /**
  * Posts
  */
+ .post {
+    margin-top: 1.5rem;
+ }
 .post-header {
     margin-bottom: $spacing-unit;
 }
