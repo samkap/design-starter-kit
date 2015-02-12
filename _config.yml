@@ -9,3 +9,4 @@ github_username:  samkap
 
 # Build settings
 markdown: kramdown
+paginate: 10
