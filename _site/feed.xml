@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design Starter Kit</title>
+    <description>A Design starter kit for students at The Iron Yard.
+</description>
+    <link>http://samkap.github.io/</link>
+    <atom:link href="http://samkap.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 12 Feb 2015 09:20:48 -0600</pubDate>
+    <lastBuildDate>Thu, 12 Feb 2015 09:20:48 -0600</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Design History</title>
+        <description>&lt;p&gt;Everything repeats itself in Design. Learning the history of design helps designers and developers learn about the connotations that different movements have on the viewer/user’s subconscious.&lt;/p&gt;
+
+&lt;p&gt;Read up on &lt;a href=&quot;http://www.designishistory.com/&quot;&gt;Design History&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Feb 2015 01:42:36 -0600</pubDate>
+        <link>http://samkap.github.io/2015/02/12/design-history.html</link>
+        <guid isPermaLink="true">http://samkap.github.io/2015/02/12/design-history.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Common Design Patterns and UI</title>
+        <description>&lt;h3 id=&quot;common-design-patterns&quot;&gt;Common Design Patterns&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://codepen.io/patterns&quot;&gt;CodePen’s Pattern Curation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ui-patterns.com/&quot;&gt;UI Patterns&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.pttrns.com/&quot;&gt;Mobile Patterns&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://inspired-ui.com/&quot;&gt;Inspired UI&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;polishing-and-precise-design&quot;&gt;Polishing and Precise Design&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://s3.amazonaws.com/pathwright-uploads/AY6K5aICQRONCW12MeUC_PPP2.pdf&quot;&gt;Pixel Perfect Precision (PDF)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://code.tutsplus.com/tutorials/ui-design-for-developers-introduction--active-9921&quot;&gt;UI for Developers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 12 Feb 2015 01:42:36 -0600</pubDate>
+        <link>http://samkap.github.io/2015/02/12/common-patterns.html</link>
+        <guid isPermaLink="true">http://samkap.github.io/2015/02/12/common-patterns.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
