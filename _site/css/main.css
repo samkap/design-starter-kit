@@ -19,6 +19,13 @@ body {
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%; }
 
+p {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  line-height: 1.6;
+  font-weight: 300;
+  color: #111; }
+
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */

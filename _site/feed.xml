@@ -6,9 +6,40 @@
 </description>
     <link>http://samkap.github.io/design-starter-kit/</link>
     <atom:link href="http://samkap.github.io/design-starter-kit/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Feb 2015 13:32:01 -0600</pubDate>
-    <lastBuildDate>Mon, 16 Feb 2015 13:32:01 -0600</lastBuildDate>
+    <pubDate>Thu, 11 Jun 2015 19:19:51 -0400</pubDate>
+    <lastBuildDate>Thu, 11 Jun 2015 19:19:51 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>(Updated) Common Design Patterns and UI</title>
+        <description>&lt;p&gt;Here are some sites that collect common patterns for the web and mobile world. Also, here’s a list of resources and advice about putting these practices into place.&lt;/p&gt;
+
+&lt;h3 id=&quot;common-design-patterns-on-the-web&quot;&gt;Common Design Patterns on the web&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://codepen.io/patterns&quot;&gt;CodePen’s Pattern Curation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Brad Frost’s &lt;a href=&quot;http://patternlab.io/&quot;&gt;Pattern Library&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;common-design-patterns-on-mobile-apps&quot;&gt;Common Design Patterns on mobile apps&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ui-patterns.com/&quot;&gt;UI Patterns&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.pttrns.com/&quot;&gt;Mobile Patterns&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.mobile-patterns.com/&quot;&gt;Mobile Patterns (2)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://inspired-ui.com/&quot;&gt;Inspired UI&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;polishing-and-precise-design-for-both-web-and-mobile&quot;&gt;Polishing and Precise Design (for both Web and mobile)&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ustwo.com/ppp/&quot;&gt;Pixel Perfect Precision (PDF)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://code.tutsplus.com/tutorials/ui-design-for-developers-introduction--active-9921&quot;&gt;UI for Developers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 11 Jun 2015 03:42:36 -0400</pubDate>
+        <link>http://samkap.github.io/design-starter-kit/2015/06/11/common-patterns.html</link>
+        <guid isPermaLink="true">http://samkap.github.io/design-starter-kit/2015/06/11/common-patterns.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>On Design, beyond aesthetics</title>
@@ -23,7 +54,7 @@
   &lt;li&gt;&lt;a href=&quot;http://www.abookapart.com/products/designing-for-emotion&quot;&gt;Designing for emotion&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Thu, 12 Feb 2015 06:00:36 -0600</pubDate>
+        <pubDate>Thu, 12 Feb 2015 07:00:36 -0500</pubDate>
         <link>http://samkap.github.io/design-starter-kit/2015/02/12/design-beyong-aesthetics.html</link>
         <guid isPermaLink="true">http://samkap.github.io/design-starter-kit/2015/02/12/design-beyong-aesthetics.html</guid>
         
@@ -43,7 +74,7 @@
   &lt;li&gt;&lt;a href=&quot;http://www.typ.io&quot;&gt;Typ.io (Web Typography gallery)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Thu, 12 Feb 2015 05:00:36 -0600</pubDate>
+        <pubDate>Thu, 12 Feb 2015 06:00:36 -0500</pubDate>
         <link>http://samkap.github.io/design-starter-kit/2015/02/12/web-typography.html</link>
         <guid isPermaLink="true">http://samkap.github.io/design-starter-kit/2015/02/12/web-typography.html</guid>
         
@@ -71,7 +102,7 @@
   &lt;li&gt;https://gdstechnology.blog.gov.uk/2014/12/11/govuk-living-style-guide/&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Thu, 12 Feb 2015 04:42:36 -0600</pubDate>
+        <pubDate>Thu, 12 Feb 2015 05:42:36 -0500</pubDate>
         <link>http://samkap.github.io/design-starter-kit/2015/02/12/branding-and-style-guides.html</link>
         <guid isPermaLink="true">http://samkap.github.io/design-starter-kit/2015/02/12/branding-and-style-guides.html</guid>
         
@@ -101,32 +132,9 @@
   &lt;li&gt;https://gdstechnology.blog.gov.uk/2014/12/11/govuk-living-style-guide/&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Thu, 12 Feb 2015 01:42:36 -0600</pubDate>
+        <pubDate>Thu, 12 Feb 2015 02:42:36 -0500</pubDate>
         <link>http://samkap.github.io/design-starter-kit/2015/02/12/design-history%202.html</link>
         <guid isPermaLink="true">http://samkap.github.io/design-starter-kit/2015/02/12/design-history%202.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Common Design Patterns and UI</title>
-        <description>&lt;h3 id=&quot;common-design-patterns&quot;&gt;Common Design Patterns&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://codepen.io/patterns&quot;&gt;CodePen’s Pattern Curation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://ui-patterns.com/&quot;&gt;UI Patterns&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.pttrns.com/&quot;&gt;Mobile Patterns&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://inspired-ui.com/&quot;&gt;Inspired UI&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;polishing-and-precise-design&quot;&gt;Polishing and Precise Design&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://s3.amazonaws.com/pathwright-uploads/AY6K5aICQRONCW12MeUC_PPP2.pdf&quot;&gt;Pixel Perfect Precision (PDF)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://code.tutsplus.com/tutorials/ui-design-for-developers-introduction--active-9921&quot;&gt;UI for Developers&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 12 Feb 2015 01:42:36 -0600</pubDate>
-        <link>http://samkap.github.io/design-starter-kit/2015/02/12/common-patterns.html</link>
-        <guid isPermaLink="true">http://samkap.github.io/design-starter-kit/2015/02/12/common-patterns.html</guid>
         
         
       </item>

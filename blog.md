@@ -15,7 +15,7 @@ permalink: /blog/
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-          {{ post.excerpt }}
+          {{ post.content |  truncate: 50 }}
       </li>
     {% endfor %}
   </ul>
